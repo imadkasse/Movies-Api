@@ -1,4 +1,4 @@
-# Menu Foood
+# Movies Api
 
 project show the movies and you can serach any movie
 
